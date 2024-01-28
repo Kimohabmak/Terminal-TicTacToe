@@ -189,7 +189,7 @@ int         GetSide()
         {
             Input = std::stoi(InputString);
 
-            if(Input > 0)
+            if(Input > 2)
             {
                 break;
             }
