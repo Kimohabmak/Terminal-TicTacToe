@@ -1,10 +1,4 @@
 #include    <iostream>
-#include    <limits>
-#include    <cstdlib>
-#include    <ctime>
-#include    <stdio.h>
-#include    <string>
-#include    <cctype>
 #include    <algorithm>
 
 int         SIDE;
